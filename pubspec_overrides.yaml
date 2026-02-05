@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: odin_analysis_options
+dependency_overrides:
+  odin_analysis_options:
+    path: ../odin_analysis_options
