@@ -2,6 +2,7 @@ name: odin_teatro
 description: "A new Flutter package project."
 version: 0.0.1
 homepage:
+pusblish_to: none
 
 environment:
   sdk: ^3.10.0
