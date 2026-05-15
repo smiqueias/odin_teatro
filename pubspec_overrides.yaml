@@ -1,4 +1,7 @@
 # melos_managed_dependency_overrides: odin_analysis_options
 dependency_overrides:
   odin_analysis_options:
-    path: ../odin_analysis_options
+    git:
+      url: https://github.com/smiqueias/odin_digital
+      ref: dev
+      path: modules/odin_analysis_options
